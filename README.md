@@ -75,3 +75,11 @@ python3 tools/test_cam.py
 
 ## Training Model
 Run in Colab to training model with custom datasets
+```
+Training_Model
+├───Segmentation
+│       segmentation_training.ipynb
+│
+└───YOLOv5
+        yolov5_training.ipynb
+```

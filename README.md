@@ -83,3 +83,4 @@ Training_Model
 └───YOLOv5
         yolov5_training.ipynb
 ```
+Segmentation model: [seg.pt](https://drive.google.com/file/d/1O6SlW6f3TEhCISBTDo1cRNhEijqaFfhL/view?usp=sharing)

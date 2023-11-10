@@ -83,4 +83,7 @@ Training_Model
 └───YOLOv5
         yolov5_training.ipynb
 ```
-Segmentation model: [seg.pt](https://drive.google.com/file/d/1O6SlW6f3TEhCISBTDo1cRNhEijqaFfhL/view?usp=sharing)
+#### Segmentation model: 
+[seg.pt](https://drive.google.com/file/d/1O6SlW6f3TEhCISBTDo1cRNhEijqaFfhL/view?usp=sharing)
+#### Sign traffic object model:
+[obj.onnx](https://drive.google.com/file/d/1Q_RJ68S8nbuH2B2J6Z7xnQ072-M6--oC/view?usp=sharing)

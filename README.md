@@ -87,3 +87,5 @@ Training_Model
 [seg.pt](https://drive.google.com/file/d/1MePFEKiVhEEF4PAuvXlPD-RjL7l5UOA9/view?usp=sharing)
 #### Sign traffic object model:
 [obj.onnx](https://drive.google.com/file/d/19KWLka-b5qdjr-2z5lKa11d1N9THP3Qz/view?usp=sharing)
+#### Recorded video:
+[recorded](https://youtu.be/nsQFBcQCWFY?si=cfO5zGCuBPNBivQ4)

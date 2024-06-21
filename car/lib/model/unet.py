@@ -57,10 +57,3 @@ class UNet(nn.Module):
         outputs = self.conv0(up3)
         
         return outputs
-
-
-    def warmup(self, imgsz=(1, 3, 80, 160), device):
-        # Warmup model by running inference once
-        im = torch.empty(*imgsz, dtype=torch.float, device=device)  # input
-        for _ in range(3):  #
-            self.forward(im)  # warmup

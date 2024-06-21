@@ -64,6 +64,3 @@ class UNet(nn.Module):
         im = torch.empty(*imgsz, dtype=torch.float, device=device)  # input
         for _ in range(3):  #
             self.forward(im)  # warmup
-
-
-class torc
